@@ -1,17 +1,9 @@
-# weatherapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # flutter_weatherapp
+
+## description
+Personal project about finding location and get current weather condition using flutter framework, which depends on geolocator, geocoding, http and lottie packages.
+Feel free to post constructive comment here! Thank you!
+
+## screenshots
+
+![Screenshot 2023-10-16 at 9 54 45 PM](https://github.com/azrishaharin/flutter_weatherapp/assets/68407352/1b11caeb-e429-498f-809a-33567c68921b)
